@@ -1,0 +1,34 @@
+a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 38px;
+  text-align: left;
+  color: #004A99;
+}
+
+a:nth-of-type(6n):hover {
+  background-color: #F9C8D0;
+}
+
+a:nth-of-type(6n+1):hover {
+  background-color: #96CAF5;
+}
+
+a:nth-of-type(6n+2):hover {
+  background-color: #FFF2CC;
+}
+
+a:nth-of-type(6n+3):hover {
+  background-color: #FF8E7D;
+}
+
+a:nth-of-type(6n+4):hover {
+  background-color: #FFD245;
+}
+
+a:nth-of-type(6n+5):hover {
+  background-color: #FAF7F7;
+}
